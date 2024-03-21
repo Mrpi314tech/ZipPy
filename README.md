@@ -32,7 +32,7 @@ ZipPy is a straightforward Linux tool designed to streamline the execution of Py
 
 ### Contributing:
 
-If you find any issues with ZipPy or have suggestions for improvements, feel free to contribute by submitting pull requests or opening issues in the [GitHub repository](https://github.com/yourusername/ZipPy).
+If you find any issues with ZipPy or have suggestions for improvements, feel free to contribute by submitting pull requests or opening issues in the [GitHub repository](https://github.com/Mrpi314tech/ZipPy).
 
 ### License:
 
